@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nandini Madhukar Achugatla</h1>
-<h3 align="center">A passionate frontend developer ,Java Developer And Cloud-DevOps</h3>
+<h3 align="center">A passionate frontend developer  And Cloud-DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandiniachugatla&label=Profile%20views&color=0e75b6&style=flat" alt="nandiniachugatla" /> </p>
 
